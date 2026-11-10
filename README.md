@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Dev 👋
 
-<!--
-**dpatel511/dpatel511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a bioinformatician in Giessen, Germany, with a knack for building tools that make biological data easier to analyze and trust. Lately that has meant genome annotation, metagenomics and ancient DNA.
 
-Here are some ideas to get you started:
+- [**annostat**](https://github.com/dpatel511/annostat): validate and compare bacterial genome annotations ([PyPI](https://pypi.org/project/annostat/) · [Bioconda](https://anaconda.org/bioconda/annostat))
+- [**metaquest**](https://github.com/dpatel511/metaquest): short-read metagenomics, from FASTQ to profiles, assemblies and functional annotation
+- [**anvaya**](https://github.com/dpatel511/anvaya): damage-aware assembly for ancient DNA metagenomes (research prototype)
+- **CoFanPi**: a fungal genome annotation pipeline at jlab (private for now)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I care about tools that are reproducible and honest about their limits.
+
+[LinkedIn](https://www.linkedin.com/in/devpatel5211/) · [ORCID](https://orcid.org/0009-0000-3354-4731) · [PyPI](https://pypi.org/user/dpatel/)
+
